@@ -22,3 +22,9 @@ The source for the data is the Pizza Place Sales from the Maven Analytics Data P
 
 #### Now we are ready to start preparing the queries for use.
 
+1. I selected the orders query and selected Keep Rows from the ribbon above.
+2. I then selected Keep Top Rows and entered 1 as the number of rows to keep into the popup window as we only need the first row as we are only interested in the orders file.
+3. I then clicked on the content column and selected Remove Columns from the ribbon.
+4. Then I selected Remove other columns leaving us just the content column.
+5. I then clicked on the double down arrows in the column header to expand the file contents.
+6. Then I clicked on OK from the Combine Files window.
