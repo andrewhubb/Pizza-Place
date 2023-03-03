@@ -20,5 +20,5 @@ The source for the data is the Pizza Place Sales from the Maven Analytics Data P
 11. Then the next query after that (in my case "pizza_sales (4)") was renamed to be pizzas.
 12. The last query (in my case "pizza_sales (5)") was renamed to pizza_types.
 
-####Now we are ready to start preparing the queries for use.
+#### Now we are ready to start preparing the queries for use.
 
