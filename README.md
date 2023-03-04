@@ -47,4 +47,4 @@ The source for the data is the Pizza Place Sales from the Maven Analytics Data P
 23. I then clicked on the double down arrows in the column header to expand the file contents.
 24. Then I clicked on OK from the Combine Files window. This expanded the pizza_types.csv file. You will notice a query group has been created called "Tranform File from pizza_types" with a helper queries subgroup. 
 25. As can be seen the column names are not correct we can see the column names in the top row of the query. To fix this we need to select the Use First Row as Headers from the ribbon above is located in the column next to the Group By option in the ribbon bar. I selected this and the first row moved up to be the column headers.
-
+#### This completed the Initial data preparation
